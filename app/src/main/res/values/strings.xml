@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Kalenda</string>
+
+
+    //Splash Activity Strings
+    <string name="splash_activity_text">Powered AI Kalenda</string>
+    <string name="splash_activity_app_name">Kalenda</string>
+    <string name="splash_activity_app_version">Version 1.0.0</string>
+    <string name="splash_activity_app_copyright">© 2026 Kalenda</string>
+    <string name="splash_activity_app_developed_by">Developed by Busara Digital</string>
+    <string name="splash_activity_app_logo">Kalenda</string>"
+
+
+    //Login Activity Strings
+    <string name="login_activity_header">Welcome, Back</string>
+    <string name="login_activity_email">Email</string>
+    <string name="login_activity_password">Password</string>
+    <string name="login_activity_login_btn">Login</string>
+    <string name="login_activity_register_btn">Register</string>
+    <string name="login_activity_forgot_password">Forgot Password?</string>
+    <string name="login_activity_login_failed">Login Failed</string>
+    <string name="login_activity_login_success">Login Successful</string>
+    <string name="login_activity_login_error">Login Error</string>
+    <string name="login_activity_login_error_message">Invalid email or password</string>
+    <string name="login_activity_footer">Don\'t have an account?</string>
+    <string name="login_activity_register_btn_text">Register</string>
+    <string name="login_activity_forgot_password_text">Forgot Password?</string>
+    <string name="login_activity_login_btn_text">Login</string>
+    <string name="login_activity_create_account_btn_text">Create Account</string>
+    <string name="login_activity_login_email_hint">Enter your email</string>
+    <string name="login_activity_login_password_hint">Enter your password</string>
+
+
+    //Sign Up Activity Strings
+    <string name="sign_up_activity_header">Create an Account</string>
+    <string name="sign_up_activity_name">Name</string>
+    <string name="sign_up_activity_email">Email</string>
+    <string name="sign_up_activity_password">Password</string>
+    <string name="sign_up_activity_confirm_password">Confirm Password</string>
+    <string name="sign_up_activity_sign_up_btn">Sign Up</string>
+    <string name="sign_up_activity_login_btn">Login</string>
+    <string name="sign_up_activity_sign_up_failed">Sign Up Failed</string>
+    <string name="sign_up_activity_sign_up_success">Sign Up Successful</string>
+    <string name="sign_up_activity_sign_up_error">Sign Up Error</string>
+    <string name="sign_up_activity_sign_up_error_message">Invalid email or password</string>
+    <string name="sign_up_activity_footer">Already have an account?</string>
+    <string name="sign_up_activity_login_btn_text">Login</string>
+    <string name="sign_up_activity_sign_up_btn_text">Sign Up</string>
+
+
+    //Home Activity Strings
+    <string name="home_activity_header">Kalenda</string>
+    <string name="home_activity_logout_btn">Logout</string>
+</resources>
